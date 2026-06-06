@@ -4,6 +4,8 @@ This course block covers biomedical instrumentation, circuit construction, data 
 
 Submitted PDFs, large raw media, and personal ECG/PPG waveform plots are intentionally excluded. The repository keeps code, small measurement exports, non-identifying result figures, and summaries suitable for a public portfolio.
 
+Published folders use a consistent structure: `code/` for scripts, LabVIEW files, and notebooks, `data/` for small non-sensitive inputs, and `results/` for figures or tables. Weeks with only private, course-policy-sensitive, or oversized material include a short README instead of the original submission files.
+
 | Week | Folder | Topic | Code focus |
 | --- | --- | --- | --- |
 | 01 | `week-01-electrical-test-measurements` | Electrical test and measurements | Oscilloscope/function-generator measurement reports and captured waveforms. |
@@ -15,4 +17,4 @@ Submitted PDFs, large raw media, and personal ECG/PPG waveform plots are intenti
 | 07 | `week-07-optical-microscopy-holography` | Optical microscopy and holography | MATLAB hologram reconstruction and microscopy image analysis. |
 | 08 | `week-08-gold-nanoparticle-characterization` | Gold nanoparticle synthesis/characterization | Spreadsheet/text analysis of absorbance, DLS, and photothermal measurements. |
 | 09 | `week-09-fluorescence-raman-sensing` | Fluorescence and Raman sensing | MATLAB SERS baseline correction, peak analysis, and fluorescence comparison. |
-| 10 | `week-10-microfluidic-particle-separation` | Microfluidic particle separation | ImageJ-assisted microscopy analysis of contraction-expansion array channels. |
+| 10 | `week-10-microfluidic-particle-separation` | Microfluidic particle separation | ImageJ-assisted microscopy analysis of contraction-expansion array channels, with raw image stacks and bundled software excluded. |
