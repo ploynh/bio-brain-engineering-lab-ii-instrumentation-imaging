@@ -1,0 +1,54 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Absolute
+Operator	Admin
+Date	2023/09/26
+Time	17:07:34.4975508166864456332
+***End_of_Header***	
+	
+Channels	1	
+Samples	30	
+Date	2023/09/26	
+Time	17:07:34.4975508166864456332	
+Y_Unit_Label	Volts	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	3.333333E-5	
+***End_of_Header***		
+X_Value	Voltage	Comment
+	-1.235331
+	-0.200058
+	0.835215
+	1.862820
+	2.788175
+	3.608725
+	4.229889
+	4.690010
+	4.943077
+	4.968639
+	4.782034
+	4.403712
+	3.820892
+	3.064248
+	2.156786
+	1.187975
+	0.137365
+	-0.923471
+	-1.910176
+	-2.835531
+	-3.610068
+	-4.272132
+	-4.739922
+	-4.967426
+	-5.031332
+	-4.821721
+	-4.445956
+	-3.847798
+	-3.098822
+	-2.206698
+

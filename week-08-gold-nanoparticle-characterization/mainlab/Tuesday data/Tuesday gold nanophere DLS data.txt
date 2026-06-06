@@ -1,0 +1,9 @@
+Synthesis of gold nanosphere
+
+DLS(Dynamic light scattering) data
+Peak size
+
+The amount of trisodium citrate added:
+1 ml sample: 14.7 nm
+750 ul sample: 33.35 nm
+500 ul sample: 42.46 nm
