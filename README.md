@@ -2,7 +2,15 @@
 
 This repository contains cleaned coursework from an undergraduate Bio and Brain Engineering laboratory course block. It is organized as a readable lab portfolio rather than a production software package.
 
-The work covers biomedical instrumentation, analog circuits, data acquisition, LabVIEW, biomedical imaging, optical microscopy, nanoparticle characterization, fluorescence/Raman sensing, and microfluidic analysis. Public files keep useful code, small non-sensitive measurements, selected result figures, and summaries. Submitted reports, personal waveform outputs, raw media, copied course materials, and oversized files are intentionally excluded.
+The work covers biomedical instrumentation, analog circuits, data acquisition, LabVIEW, biomedical imaging, optical microscopy, nanoparticle characterization, fluorescence/Raman sensing, and microfluidic analysis. Public files keep useful code, small non-sensitive measurements, selected result figures, and a README summary for every week. Submitted reports, personal waveform outputs, raw media, copied course materials, and oversized files are intentionally excluded.
+
+Each week uses the same public-facing convention:
+
+- `README.md` explains the lab focus, included artifacts, excluded artifacts, and rerun notes.
+- `code/` is included only when reusable scripts, LabVIEW files, or notebooks are safe to publish.
+- `data/` is included only for small non-sensitive measurement files.
+- `results/` is included only for non-identifying figures, tables, or screenshots.
+- `report/` is intentionally not published because original reports can contain names, student IDs, partner information, private measurements, and copied course text.
 
 ## Repository Structure
 
